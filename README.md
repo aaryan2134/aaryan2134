@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and a bit of web development.
 - 💞️ I’m looking to collaborate on a blockchain based project(though I am just starting out myself)
-- Check out my [portfolio](http://aaryan2134.me/)
+- Check out my [portfolio](https://aaryan2134.me/)
 
 ## Feel free to reach out on: 
 [<img align="left" alt="Aaryan-Arora-3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/Aaryan-Arora-3)
