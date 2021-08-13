@@ -6,7 +6,7 @@
 
 ## Feel free to reach out on: 
 [<img align="left" alt="Aaryan-Arora-3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/Aaryan-Arora-3)
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aaryan-arora-a956b8203/)
+[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true" />](https://www.linkedin.com/in/aaryan-arora-a956b8203/)
 
 <br />
 
