@@ -1,3 +1,5 @@
+<p align="center"><a href="https://aaryan2134.me/"><img width="80%" src="images/banner.png"/></a></p>
+
 - 👋 Hi, I’m Aaryan Arora
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and a bit of web development.
