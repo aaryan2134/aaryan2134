@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aaryan2134.me/"><img width="80%" src="images/banner.png"/></a></p>
+<p align="center"><a href="https://aaryan2134.me/"><img width="80%" src="images/Banner.png"/></a></p>
 
 - 👋 Hi, I’m Aaryan Arora
 - 👀 I’m interested in programming
