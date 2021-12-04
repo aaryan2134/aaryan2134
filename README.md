@@ -22,6 +22,8 @@ https://github.com/anuraghazra/github-readme-stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
+![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/default/0-profile-details.svg)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,6 +33,8 @@ https://github.com/anuraghazra/github-readme-stats
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 - 👋 Hi, I’m Aaryan Arora
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and a bit of web development.
