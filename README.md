@@ -24,6 +24,11 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/default/0-profile-details.svg)
 
+## [github_dark](./github_dark/README.md)
+[![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
