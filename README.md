@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on a blockchain based project(though I am just starting out myself)
 - Check out my [portfolio](https://aaryan2134.me/)
   
+## GitHub Contributions
+
+![Metrics](https://metrics.lecoq.io/aaryan2134?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta)
+
 ## GitHub Stats
 [![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan2134&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
