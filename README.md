@@ -46,8 +46,6 @@
 
 [<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/aaryan-arora-a956b8203/)
 
-</br>
-
 [Email](mailto:aaryan2134@gmail.com)
 
 <br />
