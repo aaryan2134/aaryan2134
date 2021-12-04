@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Aaryan Arora
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and web development
-- 💞️ Exploring Machine Learning
-- Check out my [portfolio](https://aaryan2134.me/)
+- 🔎 Exploring Machine Learning
+- 📝 Check out my [portfolio](https://aaryan2134.me/)
   
 <hr>
 
@@ -12,7 +12,7 @@
 <hr>
 
 <details>
-<summary>💻 GitHub Contributions</summary>
+<summary>🔨 GitHub Contributions</summary>
 <img alt="Contribution Metrics" src="https://metrics.lecoq.io/aaryan2134?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 </details>
 
@@ -46,7 +46,7 @@
 
 [<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/aaryan-arora-a956b8203/)
 
-[Email](mailto:aaryan2134@gmail.com)
+[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](mailto:aaryan2134@gmail.com)
 
 <br />
 
