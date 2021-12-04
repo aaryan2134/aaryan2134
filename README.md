@@ -21,23 +21,27 @@
 
 <img alt="Aaryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaryan2134&show_icons=true&theme=dark&include_all_commits=true"/>
 
-<img alt="Aaryan's GitHub Graph" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img alt="Aaryan's GitHub Graph1" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<img alt="Aaryan's GitHub Graph" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<img alt="Aaryan's GitHub Graph2" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
 
-<img alt="Aaryan's GitHub Graph" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img alt="Aaryan's GitHub Graph3" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
-<img alt="Aaryan's GitHub Graph" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img alt="Aaryan's GitHub Graph4" src="https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 </details>
 
 ## Languages and Tools:  
 <hr>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/arduino/arduino.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code> 
 
 ## Feel free to reach out on: 
 <hr>
