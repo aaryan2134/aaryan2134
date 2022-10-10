@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and web development
 - 🔎 Exploring Machine Learning
-- 📝 Check out my [portfolio](https://aaryan2134.me/)
+- 📝 Check out my [portfolio](https://aaryan2134.github.io/)
   
 <hr>
 
