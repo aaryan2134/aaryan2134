@@ -13,9 +13,9 @@
 
 [<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](mailto:aaryan2134@gmail.com)
 
-[<img align="left" alt="Aaryan-Arora-3" width="22px" src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.png" />]([https://www.quora.com/profile/Aaryan-Arora-3](https://top.mlh.io/2023/profiles/aaryan-arora))
+[<img align="left" alt="Aaryan-Arora-3" width="22px" src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.png" />](https://top.mlh.io/2023/profiles/aaryan-arora)
 
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/1*fMCdGCokXoh8CECCD7j9Og.png" />]([https://www.linkedin.com/in/aaryan-arora-a956b8203/](https://mvp.microsoft.com/en-US/studentambassadors/profile/acdd63b1-86f2-4bef-be0d-54ec458f92fb))
+[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/1*fMCdGCokXoh8CECCD7j9Og.png" />](https://mvp.microsoft.com/en-US/studentambassadors/profile/acdd63b1-86f2-4bef-be0d-54ec458f92fb)
 
 [<img align="left" alt="aaryan2134@gmail.com" width="22px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />](https://leetcode.com/aaryan2134/)
 
