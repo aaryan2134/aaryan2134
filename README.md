@@ -1,94 +1,141 @@
-<p align="center"><a href="https://aaryan2134.me/"><img width="80%" src="images/Banner.png"/></a></p>
-  
-- 👋 Hi, I’m Aaryan Arora
-- 👀 Final year student at Delhi Technological University (Computer Engineering)
-- 🌱 Ex SDE Intern at Expedia | MLH Top 50 2023 | DTU COE 2024 | Flipkart Grid 5.0 National Finalist | HackWithInfy'22 Finalist | Gold Microsoft Learn Student Ambassador
+<p align="center">
+  <a href="https://aaryan2134.me/">
+    <img width="80%" src="images/Banner.png" alt="Aaryan Arora Banner"/>
+  </a>
+</p>
 
-## Feel free to reach out on: 
-<hr>
+<h1 align="center">Hi, I'm Aaryan Arora 👋</h1>
 
-[<img align="left" alt="Aaryan-Arora-3" width="22px" src="images/quora.png" />](https://www.quora.com/profile/Aaryan-Arora-3)
+<p align="center">
+  <b>Senior Software Engineer @ BrowserStack</b><br/>
+  AI-Native Engineering · Backend & Platform Systems · LLM Tooling · Developer Productivity · Distributed Systems
+</p>
 
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/aaryan-arora-a956b8203/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaryan2134/">LinkedIn</a> ·
+  <a href="https://github.com/Baaryan">Official GitHub</a> ·
+  <a href="https://github.com/aaryan2134">Personal GitHub</a> ·
+  <a href="mailto:aaryan2134@gmail.com">Email</a> ·
+  <a href="https://top.mlh.io/2023/profiles/aaryan-arora">MLH Top 50</a>
+</p>
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](mailto:aaryan2134@gmail.com)
+---
 
-[<img align="left" alt="Aaryan-Arora-3" width="22px" src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.png" />](https://top.mlh.io/2023/profiles/aaryan-arora)
+## About Me
 
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/1*fMCdGCokXoh8CECCD7j9Og.png" />](https://mvp.microsoft.com/en-US/studentambassadors/profile/acdd63b1-86f2-4bef-be0d-54ec458f92fb)
+I'm a Senior Software Engineer at **BrowserStack**, working on backend and platform systems for large-scale test automation infrastructure.
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />](https://leetcode.com/aaryan2134/)
+My work spans distributed orchestration, reliability, observability, compliance, API design, automation workflows, and engineering productivity. I’m especially interested in **AI-native software development** — using LLMs, internal tools, and workflow automation to help engineers ship faster, debug better, reduce repetitive work, and build smarter systems.
 
-<br />
+Previously, I interned at **Expedia Group**, where I worked on backend services using Java Spring Boot and React. I graduated from **Delhi Technological University** in Computer Engineering and was named one of **Major League Hacking’s Top 50 Hackers of 2023**.
 
-## Projects:
-### Fullstack
-- https://github.com/aaryan2134/TensorGANs_innovathon2021 (Machine Learing(Python) + ReactJs)
-- https://github.com/aaryan2134/GreenCharge_Mobilothon (Django + Blockchain + Machine Learning)
-- https://github.com/aaryan2134/Aariaabhi (Python(GenAI) + ReactJs + NodeJS + Firebase)
-- https://github.com/aaryan2134/News-Dribble (ReactJs + Express + Blockchain(NFT))
+---
 
-## Hackathons
-- https://devpost.com/software/woody-on-mission
-- https://devpost.com/software/love-those-pets
-- https://devpost.com/software/interview-coach
-- https://devpost.com/software/news-dribble
-  
-### Miscellaneous
-- https://github.com/aaryan2134/Future-Nuturers (Blockchain)
-- https://github.com/aaryan2134/HackWithInfy-VR-Project (VR)
-- https://github.com/aaryan2134/Video-Popularity-Prediction (Machine Learning - Supervised)
-- https://github.com/aaryan2134/Remote-Agriculture-Solution (IOT)
-- https://github.com/aaryan2134/Star-Delta-Transformation (MATLAB)
+## Current Focus
+
+- Building reliable backend and platform systems for large-scale automation infrastructure
+- Exploring AI-native engineering workflows using LLMs, agents, MCPs, and internal tooling
+- Improving developer productivity through automation, tooling, and better engineering workflows
+- Working with distributed systems, Redis/Kafka-backed workflows, observability, and production reliability
+- Learning more about AI-assisted development, devtools, platform engineering, and system design
+
+---
+
+## Tech Stack
+
+### Backend & Platform
+
+Ruby on Rails · Java · Spring Boot · Node.js · Python · REST APIs · WebSockets
+
+### Distributed Systems & Infra
+
+Kafka · Redis · Elasticsearch · BigQuery · AWS · Kubernetes · Terraform · CI/CD
+
+### AI-Native Engineering
+
+LLMs · AI-assisted development · Prompt engineering · MCPs · Internal tools · Developer productivity workflows
+
+### Automation & Testing
+
+Selenium · Appium · Playwright · Cypress · Puppeteer
+
+---
+
+## Selected Work & Impact
+
+- Led development of **AI Mobile Self-Healing** for mobile automation, scaling usage to **24,000+ sessions** with **38.8% month-over-month growth**
+- Improved platform reliability by designing a modular Hub/Rails pipeline, reducing production downtime by **30%**
+- Built browser profiling support for process-level CPU and memory visibility
+- Worked on compliance-focused geo-region restriction systems for customer PII and test session logs
+- Delivered enterprise-enabling automation capabilities across Playwright, Safari, and BrowserStack Automate
+- Built and promoted AI/LLM-assisted workflows to improve engineering productivity across debugging, PR reviews, RCA, alert analysis, and repetitive development tasks
+
+---
+
+## Featured Projects
+
+### AI / ML / GenAI
+
+- [ProctorLy](https://github.com/aaryan2134/proctorLy) — AI-based proctorless examination system
+- [Aariaabhi](https://github.com/aaryan2134/Aariaabhi) — GenAI-powered sustainable commerce platform
+- [Video Popularity Prediction](https://github.com/aaryan2134/Video-Popularity-Prediction) — ML model for predicting video views using metadata
+
+### Full Stack / Product Builds
+
+- [News Dribble](https://github.com/aaryan2134/News-Dribble) — NBA news, standings, upcoming games, NFTs, and fan engagement
+- [Green Commerce](https://github.com/aaryan2134/Aariaabhi) — Sustainable product scoring and recommendation system
+- [GreenCharge Mobilothon](https://github.com/aaryan2134/GreenCharge_Mobilothon) — Django, blockchain, and ML-based sustainability project
 
 ### Open Source
-- https://github.com/aaryan2134/Health-Expense-Planner
-- https://github.com/aaryan2134/Interview-Scheduler
-- https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/OMDb%20API
-- https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ORB%20Intelligence
-- https://github.com/pnp/powerapps-samples/pull/173
-- https://github.com/tiprock-network/MedicineDemand-TimeSeries
 
-### Content
-- https://techcommunity.microsoft.com/t5/educator-developer-blog/integrating-power-apps-with-azure-machine-learning-amp-open-ai/ba-p/3835949
-- https://www.youtube.com/watch?v=hFF_5CvXRig&list=PLmsFUfdnGr3yQmiO3tE4CnDEeyo5bs61S&index=8&ab_channel=MicrosoftReactor
-- https://www.youtube.com/watch?v=A2evuHKlFxM&ab_channel=Microsoft365%26PowerPlatformCommunity
-- https://youtu.be/WGXzKFn1zkM?si=AiJ9JIEuRCCruaVk&t=769
+- [Health Expense Planner](https://github.com/aaryan2134/Health-Expense-Planner)
+- [Interview Scheduler](https://github.com/aaryan2134/Interview-Scheduler)
+- [OMDb API Connector - Microsoft Power Platform](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/OMDb%20API)
+- [ORB Intelligence Connector - Microsoft Power Platform](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ORB%20Intelligence)
+- [Power Apps Sample Contribution](https://github.com/pnp/powerapps-samples/pull/173)
 
-<!---
-[<img align="left" alt="Aaryan-Arora-3" width="22px" src="images/quora.png" />](https://devpost.com/aaryan2134?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+---
 
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://devfolio.co/projects)
+## Hackathons & Recognition
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/aaryan2134/)
+- **MLH Top 50 Hacker of 2023**
+- **Flipkart Grid 5.0 National Finalist**
+- **HackWithInfy 2022 Finalist**
+- **Gold Microsoft Learn Student Ambassador**
+- **Stibo Systems India Hackathon Winner**
 
-[<img align="left" alt="Aaryan-Arora-3" width="22px" src="images/quora.png" />](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/acdd63b1-86f2-4bef-be0d-54ec458f92fb)
+---
 
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://devfolio.co/projects)
+## Content & Talks
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/aaryan2134/)
-<br></br>
---->
+- [Integrating Power Apps with Azure Machine Learning & OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/integrating-power-apps-with-azure-machine-learning-amp-open-ai/ba-p/3835949)
+- [Microsoft Reactor Session](https://www.youtube.com/watch?v=hFF_5CvXRig&list=PLmsFUfdnGr3yQmiO3tE4CnDEeyo5bs61S&index=8&ab_channel=MicrosoftReactor)
+- [Microsoft 365 & Power Platform Community Talk](https://www.youtube.com/watch?v=A2evuHKlFxM&ab_channel=Microsoft365%26PowerPlatformCommunity)
 
+---
 
 ## GitHub Stats
-<hr>
 
+<details>
+  <summary>GitHub Contributions</summary>
+  <br/>
+  <img alt="Contribution Metrics" src="https://metrics.lecoq.io/aaryan2134?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+</details>
 
-<summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/aaryan2134?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+<br/>
 
+<details>
+  <summary>GitHub Profile Stats</summary>
+  <br/>
 
-<summary>💻 GitHub Profile Stats</summary>
+  | GitHub Stats | Languages |
+  | --- | --- |
+  | ![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan2134&show_icons=true&theme=dark&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan2134&layout=compact&theme=dark) |
 
-|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=aaryan2134&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-|-|-|
+</details>
 
+---
 
-
-
-
-<!---
-aaryan2134/aaryan2134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Building reliable systems, AI-native workflows, and tools that help engineers move faster.
+</p>
